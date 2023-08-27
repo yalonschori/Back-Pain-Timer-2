@@ -1,0 +1,6 @@
+what should the application do:
+
+
+it should have a timer
+
+it should have a gaming mode where there are no pop up messages and only a sound
